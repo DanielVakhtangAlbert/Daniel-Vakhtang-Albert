@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Alen Šimec">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1"
+	</head>
+	<body>
+        <h1>ESCROW Cologne-Bonn</h1>
+		<p style="color: blue;"> Software Security Company</p>
+		<h2>About Us</h2>
+        <p>The S.E.I. headquarter is located in Germany, Nature-Park-Rhine-Westerwald, Gartenstraße 22, Dürrholz-Werlenbach. Founded by long time experienced international management, working for multinational computer companies like IBM, Siemens, OKI, Mitsubishi Europe, Oracle, and as SAP users.
+        <p>The offices in Germany are covering Europe with several service centers in different cities. Service Center in Austria, Switzerland and France are covering also the West- and in addition East European countries and the Arabic market places.</p>
+
+	
+   </form>
+      <h1>List of students</h1>
+      <table border="1" style="border: 1px solid green;width:50%;">
+        <tr>
+          <td>First name</td>
+          <td>Last name</td>
+		  <td>E-mail</td>
+		  <td style="text-align:center;">Website</td>
+		  </tr>
+         <tr>
+           <td>Daniel</td>
+           <td>Albert</td>
+           <td><a href="mailto:albertdaniel17@gmail.com;">e-mail</a></td>
+		   <td><a href="avakhtan.ecm.zsem.hr" target="_blank">Website</a></td>
+		   
+		   <tr>
+            <td>Ema</td>
+			<td>Stefanikova</td>
+			<td><a href="mailto:estefani@zsem.hr;">e-mail</a></td>
+			<td><a href="estefani.ecm.zsem.hr" target="_blank">Website</a></td>
+			<tr>
+			<td>Cole</td>
+			<td>Paige</td>
+			<td><a href="mailto:cpaige@zsem.hr;">e-mail</a></td>
+			<td><a href="cpaige.ecm.zsem.hr" target="_blank">Website</a></td>
+			<tr>
+			<td>Noelia</td>
+			<td>Van Poppel</td>
+			<td><a href="mailto:nvanpop@zsem.hr;">e-mail</a></td>
+			<td><a href="nvanpop.ecm.zsem.hr" target="_blank">Website</a></td>
+          </tr>
+        </table>
+     </body>
+    
+	<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Bootstrap -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+		<!-- End Bootstrap -->
+		
+		<!-- CSS -->
+		<link rel="stylesheet" href="style.css">
+		<!-- End CSS -->
+		<!-- meta elements -->
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="description" content="some description">
+        <meta name="keywords" content="keyword 1, keyword 2, keyword 3, keyword 4, ...">
+		
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="Hello Example">
+		<meta itemprop="description" content="Some description">
+		<meta itemprop="image" content="Your URL"> 
+		
+		<!-- Open Graph data -->
+		<meta property="og:title" content="Hello Example">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="Your URL">
+		<meta property="og:image" content="Your URL">
+		<meta property="og:description" content="Some description">
+		<meta property="article:tag" content="keyword 1, keyword 2, keyword 3, keyword 4, ...">
+		
+		<!-- Twitter Card data -->
+		<meta name="twitter:title" content="Hello Example">
+		<meta name="twitter:description" content="Some description">
+		
+        <meta name="author" content="albertdaniel17@gmail">
+		<!-- favicon meta -->
+		<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+		<!-- end favicon meta -->
+		<!-- end meta elements -->
+		
+		<!-- Google Fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"> 
+		<!-- End Google Fonts -->
+		<title>Example page - HTML5</title>
+	</head>
+<body>
+	<header>
+		<div class="hero-image"></div>
+		<nav>
+			<ul class="nav nav-tabs">
+			  <li class="active"><a data-toggle="tab" href="#home">Home</a></li>  
+			  <li><a data-toggle="tab" href="#contact">Contact</a></li>
+			  <li><a data-toggle="tab" href="#aboutus">About</a></li>
+			  <li><a data-toggle="tab" href="#news">News</a></li>
+			  <li><a data-toggle="tab" href="#gallery">Gallery</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<div class="tab-content">
+			<div id="home" class="tab-pane fade in active">
+				<h1>ESCROW Cologne-Bonn</h1>
+				<figure>
+					<img src="ssc.jpg" alt="Software" title="Software" style="width:500px; margin-top:0.4em">
+					<figcaption>Escrow</figcaption>
+				</figure>
+				<p>We have come to rely on software in many aspects of our lives: banking, administration, healthcare…</p>
+				<p>The list goes on, and will only keep on growing: after all, smart devices running the right software are convenient. However, this also means we are putting a lot of our personal belongings in the hands of third parties..</p>
+				<p>It is therefore imperative that their products are adequately secured against malicious attacks.</p>
+				<p>Social media:<br>
+					<a href="https://www.linkedin.com/in/daniel-albert-4ba3a8197/" target="_blank"><img src="ccc.jpg" alt="Linkedin" title="Linkedin" style="width:50px; margin-top:0.4em"></a>
+					<a href="https://twitter.com/DanielA49678029" target="_blank"><img src="ree.jpg" alt="Twitter" title="Twitter" style="width:50px; margin-top:0.4em"></a>
+					<a href="https://www.facebook.com/profile.php?id=100043739586083" target="_blank"><img src="fee.jpg" alt="Facebook" title="Facebook" style="width:50px; margin-top:0.4em"></a>
+				</p>
+			</div>
+			<div id="news" class="tab-pane fade">
+				<h1>Recent News</h1>
+				<h2>International Software Secuirity Services</h2>
+				<img src="lala.jpg" alt="Software" title="Software" style="width:300px; margin-top:0.4em"><img src="la.jpg" alt="Software" title="Software" style="width:330px; margin-top:0.4em"><img src="lalala.jpg" alt="Software" title="Software" style="width:340px; margin-top:0.4em">
+				<h1>Unpatched Windows Zero-Day flaws exploited, Microsoft says</h1><p><font size="2">Attackers are exploiting unpatched Windows zero day flaws, Microsoft said in a Monday security advisory.
+
+The company said “limited targeted attacks” could leverage two unpatched remote code executive (RCE) vulnerabilities in Windows “when the Windows Adobe Type Manager Library improperly handles a specially crafted multi-master font – Adobe Type 1 PostScript format.”
+
+Among the ways a hacker could exploit the flaws is convincing users to open “a specially crafted document or viewing it in the Windows Preview pane.” The company said it’s working on a fix but in the meantime users should use recommended mitigation and workarounds to reduce the risk, including disabling the Preview Pane and Details Pane in Windows Explorer, disabling the WebClient service and renaming ATMFD.DLL.
+
+Contending that “creating software is essentially a kind of manufacturing” with finished product “assembled from software components, just as an airplane is assembled from thousands of individual parts. It is the responsibility of the manufacturer to keep track of those parts to make sure they are correct and safe. ‘In this case, Microsoft is actually reporting on an Adobe component which contains vulnerabilities that affect Microsoft’s products,” said Jonathan Knudsen, senior security strategist at Synopsis, who compared creating software to manufacturing” where the finished product is “assembled from software components, just as an airplane is assembled from thousands of individual parts” with the manufacturer responsible for tracking those parts to ensure “they are correct and safe.”
+
+In this case, “Microsoft appears to have found out about the vulnerability because it was already being exploited in the wild. This means that they have issued a security advisory, but they will have to hustle to get the patch ready as soon as possible,” Knudsen said. !</font></p>
+				<div class="news">
+				
+					
+					<hr>
+				</div>
+			</div>
+			<div id="contact" class="tab-pane fade">
+				<p><iframe src="https://www.google.com/maps/place/Software+ESCROW+International+GmbH-S.E.I./@51.083129,6.5238529,9z/data=!4m8!1m2!2m1!1sescrow+bonn!3m4!1s0x47bee1645930a5e1:0xd8a5762cccf92a08!8m2!3d50.5932328!4d7.5772598" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+				
+				<form action="" id="contact_form" name="contact_form" method="POST">
+					<div class="form-group">
+						<label for="fname">First Name *</label>
+						<input class="form-control" type="text" id="fname" name="firstname" placeholder="Your name.." required>
+					</div>
+					<div class="form-group">
+						<label for="lname">Last Name *</label>
+						<input class="form-control" type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+					</div>
+					<div class="form-group">
+						<label for="lname">Your E-mail *</label>
+						<input class="form-control" type="email" id="email" name="email" placeholder="Your e-mail.." required>
+					</div>
+					<div class="form-group">
+						<label for="country">Country</label>
+						<select class="form-control" id="country" name="country">
+						  <option value="">Please select</option>
+						  <option value="BE">Belgium</option>
+						  <option value="HR" selected>Germany</option>
+						  <option value="LU">Luxembourg</option>
+						  <option value="HU">Hungary</option>
+						</select>
+					</div>
+					<div class="form-group">
+						<label for="subject">Subject</label>
+						<textarea class="form-control" id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+					</div>
+					<input type="submit" value="Submit" class="btn-primary">
+				</form>
+			</div>
+			<div id="aboutus" class="tab-pane fade">
+				<h1>About Us</h1>
+				<h2>International Software Secuirity Services</h2>
+				<img src="scc.jpg" alt="Software" title="Software" style="width:500px; margin-top:0.4em">
+				<p>The S.E.I. headquarter is located in Germany, Nature-Park-Rhine-Westerwald, Gartenstraße 22, Dürrholz-Werlenbach. Founded by long time experienced international management, working for multinational computer companies like IBM, Siemens, OKI, Mitsubishi Europe, Oracle, and as SAP users.
+
+The offices in Germany are covering Europe with several service centers in different cities. </p>
+				<p>Service Center in Austria, Switzerland and France are covering also the West- and in addition East European countries and the Arabic market places.</p>
+				</div>
+				
+				<div id="gallery" class="tab-pane fade">
+				<h1>Gallery</h1>
+				<div id="gallery">
+					<figure id="1">
+						<img src="dda.jpg" style="width:330px; alt="Headquarter" title="Headquarter">
+						<figcaption>Our Headquarter<figcaption>
+					</figure>
+					<figure id="2">
+						<img src="dv.jpeg" style="width:250px; alt="Consultancy Service" title="Consultancy Service">
+						<figcaption>Consultancy Manager<figcaption>
+					</figure>
+					<figure id="3">
+						<img src="bonn.jpg" style="width:540px; alt="Bonn Germany" title="Bonn Germany">
+						<figcaption>Bonn, Germany<figcaption>
+					</figure>
+					
+				</div>
+				
+	</main>
+	
+</body>
+</html>
